@@ -13,9 +13,9 @@ ou en *italique* et pourquoi pas ***les deux***
 2. dernière 
 3. est ordonnée 
 
-Voici un peu de 'code' au milieu d'une phrase 
+Voici un peu de `code` au milieu d'une phrase 
 
-''' ceci est un bloque de code 
-'''
+``` ceci est un bloque de code 
+```
 
-Et pour finir voici [un lien] (https://guides.github.com/features/mastering-markdown/) pour devenir un as du Markdown. 
+Et pour finir voici [un lien](https://guides.github.com/features/mastering-markdown/) pour devenir un as du Markdown. 
